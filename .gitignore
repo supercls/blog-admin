@@ -19,3 +19,5 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+node_modules/axios/lib/cancel/Cancel.js
+/node_modules
